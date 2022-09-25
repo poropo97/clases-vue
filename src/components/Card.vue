@@ -3,7 +3,6 @@
   <div class="card">
     <div class="card-header">
       {{titol}}
-
     </div>
     <div  class="card-body">
       {{cos}}
